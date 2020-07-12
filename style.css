@@ -1,0 +1,23 @@
+.title {
+    border: 1px solid blue; 
+    text-align: center;
+    font-size:45px;
+    background-color: rgb(102, 204, 255);
+}
+
+
+.menu{
+    border: 1px solid blue;
+    font-size:25px;
+    width: 100%;
+    background-color: rgb(102, 204, 255);
+}
+
+.maincontent{
+    border: 1px solid blue;
+    text-align:center
+}
+
+
+   
+
